@@ -49,7 +49,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-   background-color: #b18be845;
+    background-color: lightslategrey;
 }
 
 .main h2 {
@@ -76,8 +76,8 @@ section {
 }
 
 .main-btn {
-    color: #e98282;
-    background-color: #000000;
+    color: #fff;
+    background-color: #ffffff;
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 600;
