@@ -76,6 +76,7 @@ section {
 }
 
 .main-btn {
+    text-decoration-color: #000000;
     color: #fff;
     background-color: #000000;
     text-decoration: none;
